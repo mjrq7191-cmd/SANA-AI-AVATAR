@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
         layout.setBackgroundColor(Color.rgb(25, 10, 45));
 
         TextView title = new TextView(this);
-        title.setText("SANA AI 💜");
+        title.setText("SANA AI");
         title.setTextColor(Color.WHITE);
         title.setTextSize(32);
 
